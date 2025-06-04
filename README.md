@@ -1,4 +1,4 @@
-# 🐞 GitHub Label Emoji Prefix 🪲
+# 🐞 GitHub Label Emoji Prefixer 🪲
 
 ## About
 
@@ -23,7 +23,7 @@ Userscript that adds label-specific emoji prefixes to GitHub issue and pull requ
 
 ### Step 2: Install the script
 
-* Click [here](https://raw.githubusercontent.com/snaphat/github-label-emoji-prefix/main/github-label-emoji-prefix.user.js) to install the script.
+* Click [here](https://raw.githubusercontent.com/snaphat/github-label-emoji-prefixer/main/github-label-emoji-prefixer.user.js) to install the script.
 
 ## Notes
 
