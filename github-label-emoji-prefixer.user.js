@@ -2,7 +2,7 @@
 // @name         GitHub Label Emoji Prefixer
 // @namespace    https://github.com/snaphat/github-label-emoji-prefixer
 // @version      0.1.0
-// @icon         https://raw.githubusercontent.com/snaphat/github-label-emoji-prefixer/refs/heads/main/ladybug-icon.png
+// @icon         https://raw.githubusercontent.com/snaphat/github-label-emoji-prefixer/main/ladybug-icon.png
 // @author       Aaron Landwehr
 // @description  Prefixes GitHub issue and pull request titles with label-specific emojis for faster visual scanning in list views.
 // @match        https://github.com/*
