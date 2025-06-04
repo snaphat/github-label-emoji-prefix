@@ -1,4 +1,4 @@
-# 🐞 GitHub Label Emoji Prefixer 🪲
+# 🐞 GitHub Label Emoji Prefix 🪲
 
 ## About
 
